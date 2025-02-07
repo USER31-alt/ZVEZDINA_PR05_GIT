@@ -1,0 +1,10 @@
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\bin\Debug\ZVEZDINA_PR05_GIT.exe.config
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\bin\Debug\ZVEZDINA_PR05_GIT.exe
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\bin\Debug\ZVEZDINA_PR05_GIT.pdb
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.csproj.AssemblyReference.cache
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.AddForm.resources
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.Properties.Resources.resources
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.csproj.GenerateResource.cache
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.csproj.CoreCompileInputs.cache
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.exe
+D:\zvezdina\pr_05\ZVEZDINA_PR05_GIT\ZVEZDINA_PR05_GIT\obj\Debug\ZVEZDINA_PR05_GIT.pdb
