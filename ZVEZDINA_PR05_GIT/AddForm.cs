@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ZVEZDINA_PR05_GIT
 {
-    public partial class Form1 : Form
+    public partial class AddForm : Form
     {
-        public Form1()
+        public AddForm()
         {
             InitializeComponent();
         }
