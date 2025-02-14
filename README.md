@@ -46,4 +46,4 @@ namespace ZVEZDINA_PR05_GIT
 Это я, [Вика](https://github.com/USER31-alt)
 
 ~~Пока!~~\
-Досвидания!
+До свидания!
